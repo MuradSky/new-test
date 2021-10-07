@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "id": "dcwCwep2Q",
+      "name": "Контакт1",
+      "phone": "+7 (133) 145-65-47",
+      "email": "contact1@mail.com"
+    },
+    {
+      "id": "r8AqsFX20",
+      "name": "Контакт2",
+      "phone": "+7 (214) 980-12-23",
+      "email": "contact2@gmail.com"
+    },
+    {
+      "id": "Wv2JFiogZ",
+      "name": "Контакт3",
+      "phone": "+7 (325) 367-78-98",
+      "email": "contact3@xmail.com"
+    }
+  ]
+}

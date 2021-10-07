@@ -1,0 +1,78 @@
+.App {
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  text-align: center;
+  padding: 10px 0;
+  background: rgb(49, 69, 248);
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+.header h1 {
+  color: #fff;
+  margin-bottom: 0;
+}
+
+.contact-form,
+.contact-list {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto !important;
+}
+
+.contact-list h2 {
+  text-align: center;
+}
+.contact-list ul {
+  padding: 0;
+  margin: 15px 0;
+  list-style: none;
+}
+.contact-list ul li {
+  padding: 7px;
+  background: rgb(230, 230, 230);
+  margin-bottom: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.contact-list__item:first-child {
+  width: 78%;
+}
+.contact-list__item span {
+  display: inline-block;
+  width: 33%;
+}
+.contact-list__item svg {
+  margin-left: 50px;
+}
+.contact-list__item a svg {
+  margin-left: 0;
+}
+.contact-list ul li a svg {
+  color: rgb(55, 118, 255);
+}
+
+.contact-list ul li svg {
+  cursor: pointer;
+  color: red;
+}
+
+.contact-list__header span {
+  display: inline-block;
+}
+
+.contact-list__header span {
+  display: inline-block;
+  width: 26%;
+}
+
+.contact-form .ant-col-8 {
+  width: 20%;
+  display: block;
+}
+
+.contact-form a {
+  margin-left: 20px;
+}
