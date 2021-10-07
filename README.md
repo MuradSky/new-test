@@ -1,5 +1,5 @@
 ## Fake Server
-Установить
+Установить [fake server] (https://github.com/typicode/json-server)
 ```
   npm install -g json-server
 ```
@@ -10,7 +10,7 @@ json-server --watch db.json --port 4000
 Фейковый БД уже настроен в файле ```db.json``` ничего не нужно менять
 
 ## React
-Установить 
+Установить [yarn] (https://yarnpkg.com/)
 ```
 yarn
 ```
